@@ -10,7 +10,7 @@ In this repo, you will find the final submission of our project, alongside other
 
 ### *Starting model :*
 
-![](img/Chaise initiale.jpg)
+![](img/Chaise_initiale.jpg)
 
 ### *Both models  :*
 
