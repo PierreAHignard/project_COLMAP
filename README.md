@@ -1,4 +1,4 @@
-# 3D Reconstruction of an object with a video
+# 3D Model Reconstruction of an Object from a Video
 
 This project took place during my first year at IMT Atlantique, we used solutions like COLMAP and MeshLab to reconstruct 3D models of small objects. The goal of the project was to fine-tune COLMAP parameters to obtain the best performance to precision ratio, for the use-case determined.
 
